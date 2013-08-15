@@ -1,3 +1,3 @@
-# Application de sondages pour l'ENSIIE Strasbourg
+# sondagIIEs
 
-Application Rails (3.2) utilisant l'OAuth d'Ares
+Application de sondages pour l'ENSIIE Strasbourg en Rails utilisant l'authenfication via Ares
